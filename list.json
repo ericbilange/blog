@@ -1,7 +1,17 @@
 [
     {
         "id": 1,
-        "title": "Test title",
+        "title": "Is AI scary?",
         "file": "post1.md"
-    }
+    },
+    {
+        "id": 2,
+        "title": "Right to forget",
+        "file": "post2.md"
+    },
+    {
+        "id": 3,
+        "title": "Innovation, how?",
+        "file": "post3.md"
+    },
 ]
