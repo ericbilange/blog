@@ -16,5 +16,11 @@
         "name": "p3",
         "title": "Innovation, how?",
         "file": "post3.md"
+    },
+    {
+        "id": 4,
+        "name": "p4",
+        "title": "Legacy systems",
+        "file": "post4.md"
     }
 ]

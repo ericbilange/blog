@@ -24,8 +24,14 @@ __Are we sure?__
 
 This is what irritates me the most when I read "experts" on the subject. Centuries ago, we had no idea what DNA was, what genetic manipulation was. When the train was invented, doctors said that travelling faster than 80 kmh was dangerous. Up until recently, we had no idea how our senses truly worked (and we still have to discover on the topic). Are we sure that we are not in theese fallacies that AI will never have a concious? I sustect we are blindfolded by our present knowledge and inability to admit that we may understand more than what we know today.
 
-AI and senses can co-exist and leverage each other. Today AI is more mimicking repetitive activities with simple statistical based approaches (like markovian models) or more elaborated ones (recurrent neural networks). Trust me, there is no "intelligence" in this, it's plain "calculation ability" and to this point, there is nothing to fear, even loss of jobs. Why? Well, look at the age pyramid over the world and our ever growing population... we need bots to automate, we need them! 
+AI and senses can co-exist and leverage each other. Today AI is more mimicking repetitive activities with simple statistical based approaches (like markovian models) or more elaborated ones (recurrent neural networks). Trust me, there is no "intelligence" in this, it's plain "calculation ability" and to this point, there is nothing to fear, even loss of jobs. Why? Well, look at the age pyramid over the world, our ever growing population, and overall education level... we need bots to automate what we don't want to do, we need them! 
 
 Tomorrow, however, I believe that with a bit of chemistry coupled to AIs, we will go a step forward. Chemistry, why? I like to think that our brain reactions, what we call emotions, to signals are plain chemical reactions that trigger some neural activity. Nerves are of course the first point of interaction, and it's more about electro-chemistry. But for example, why a minor mode in music is often associated to sadness? This could be explained by some chemical reaction in the body and/or in the brain. Such a thing can be reproduced (like a simple rule: minor scale => sadness) or stimulated with a chemical reaction. This matter (the location of chemical reactions) could self adapt and adjust and provide inputs to say a neural network. Such as system would be closer to us. Now if you think of dedicated neural networks to accumulate data to learn and some process to create new neural networks that are trained with the accumulated data... it's even one step closer to us.
 
 As a side note, it's interesting to follow the [OpenAI](https://openai.com) initiative or maybe read Plato...
+
+Anyhow, interesting reads:
+[AI Index](http://www.aiindex.org)
+[AI and the modern productivity paradox](https://www.nber.org/papers/w24001)
+[Jobs lost, jobs gained](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages)
+[AI designed sense of smell to detect illness from human breath](https://www.evolving-science.com/intelligent-machines/ai-sense-smell-00783)
