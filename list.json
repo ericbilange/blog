@@ -23,4 +23,10 @@
         "title": "Legacy systems",
         "file": "post4.md"
     }
+    {
+        "id": 5,
+        "name": "p5",
+        "title": "Due diligence readiness",
+        "file": "post5.md"
+    }
 ]
